@@ -1,2 +1,5 @@
 # Welcome to ELE101 Course
-Kayra Efe Karaman https://github.com/aMorFLeeS/ELE101-25-26-YAZ
+
+Write your name and your personal GitHub repo you have just created line below: (Your Name - repo address)
+Enes Soyak 
+https://github.com/EnesSoyak/CoursefORK.git
